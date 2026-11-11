@@ -127,7 +127,7 @@ do{
     num++
 } while(num<=10)*/
 
-// Classes, Methods, Objects, Constructor
+/* // Classes, Methods, Objects, Constructor =====================================
 export class HelloWorld {
     constructor(company){
         this.name = "vishal"
@@ -147,4 +147,4 @@ hello1.greetings()
 const hello3 = new HelloWorld("Velocity")
 console.log(hello3.name)
 console.log(hello3.company)
-hello3.greetings()
+hello3.greetings() */
